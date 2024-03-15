@@ -1,0 +1,24 @@
+{
+  "name": "tools-parser",
+  "version": "1.0.0",
+  "description": "Xml parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "xml",
+    "html5",
+    "parser",
+    "toolse"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catkinnnn/tools-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/catkinnnn/tools-parser/issues"
+  },
+  "homepage": "https://github.com/catkinnnn/tools-parser#readme"
+}
